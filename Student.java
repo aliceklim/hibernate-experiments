@@ -58,7 +58,4 @@ public class Student {
     public void setCourse(List<Course> course) {
         this.course = course;
     }
-
-
-
 }

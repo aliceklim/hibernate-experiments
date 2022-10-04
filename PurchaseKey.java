@@ -43,5 +43,4 @@ public class PurchaseKey implements Serializable {
         return Objects.hash(studentName, courseName);
     }
 
-
 }

@@ -36,6 +36,4 @@ public class SubscriptionKey implements Serializable {
     public void setCourseId(int courseId) {
         this.courseId = courseId;
     }
-
-
 }
